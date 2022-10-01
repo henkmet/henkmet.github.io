@@ -10,10 +10,17 @@
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20220828.0/
 Bricklayr's Lair	episode1.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
+Bricklayr's Lair	episode2.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
+Bricklayr's Lair	episode3.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
+Bricklayr's Lair	episode4.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	index.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 DESCRIPTION	share/man/man1/lmt.1	/^.Sh DESCRIPTION$/;"	s
 DESCRIPTION	share/man/man1/mkws.1	/^.Sh DESCRIPTION$/;"	s
 DESCRIPTION	share/man/man1/pp.1	/^.Sh DESCRIPTION$/;"	s
+Dong Liu &mdash; episode 2	episode2.html	/^<h1> Dong Liu &mdash; episode 2<\/h1>$/;"	h
+Dong Liu &mdash; episode 3	episode3.html	/^<h1>Dong Liu &mdash; episode 3<\/h1>$/;"	h
+Dong Liu &mdash; episode 4	episode4.html	/^<h1> Dong Liu &mdash; episode 4<\/h1>$/;"	h
+Dong Liu and the Lanying Stone	index.html	/^<\/h1>$/;"	h
 ENVIRONMENT	share/man/man1/mkws.1	/^.Sh ENVIRONMENT$/;"	s
 EXAMPLES	share/man/man1/lmt.1	/^.Sh EXAMPLES$/;"	s
 EXAMPLES	share/man/man1/mkws.1	/^.Sh EXAMPLES$/;"	s
@@ -31,6 +38,7 @@ SEE ALSO	share/man/man1/pp.1	/^.Sh SEE ALSO$/;"	s
 SYNOPSIS	share/man/man1/lmt.1	/^.Sh SYNOPSIS$/;"	s
 SYNOPSIS	share/man/man1/mkws.1	/^.Sh SYNOPSIS$/;"	s
 SYNOPSIS	share/man/man1/pp.1	/^.Sh SYNOPSIS$/;"	s
+The adventure seed a.k.a. Session zero.	episode1.html	/^<h1>The adventure seed a.k.a. Session zero.<\/h1>$/;"	h
 body	s.css	/^body {$/;"	s
 ns2b972dd70101	sitemap.xml	/^<urlset xmlns='http:\/\/www.sitemaps.org\/schemas\/sitemap\/0.9'>$/;"	n	uri:http://www.sitemaps.org/schemas/sitemap/0.9
 usage	bin/mkws	/^usage() {$/;"	f
