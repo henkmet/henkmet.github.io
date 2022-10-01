@@ -22,7 +22,7 @@ Dong Liu &mdash; episode 2	episode2.html	/^<h1> Dong Liu &mdash; episode 2<\/h1>
 Dong Liu &mdash; episode 3	episode3.html	/^<h1>Dong Liu &mdash; episode 3<\/h1>$/;"	h
 Dong Liu &mdash; episode 4	episode4.html	/^<h1> Dong Liu &mdash; episode 4<\/h1>$/;"	h
 Dong Liu &mdash; episode 5	episode5.html	/^<h1> Dong Liu &mdash; episode 5 <\/h1>$/;"	h
-Dong Liu and the Lanying Stone	index.html	/^<\/h1>$/;"	h
+Dong Liu and the Lanying Stone	index.html	/^<h1>Dong Liu and the Lanying Stone <a href=feed.xml> <img alt=RSS src=images\/rss.png style=widt/;"	h
 ENVIRONMENT	share/man/man1/mkws.1	/^.Sh ENVIRONMENT$/;"	s
 EXAMPLES	share/man/man1/lmt.1	/^.Sh EXAMPLES$/;"	s
 EXAMPLES	share/man/man1/mkws.1	/^.Sh EXAMPLES$/;"	s
