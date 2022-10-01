@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+		<atom:link href="https://henkmet.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		<title>Bricklayr's lair	</title>
+		<link>https://henkmet.github.io/</link>
+		<description>Bricklayr's roleplaying blog</description>
+		<language>en-gb</language>    
+
+		<item>
+			<title>Bricklayr's lair</title>
+			<pubDate>2022-10-02T00:25:34Z</pubDate>
+			<link>https://henkmet.github.io/episode1.html</link>
+			<guid>https://henkmet.github.io/episode1.html</guid>
+			<description>episode1.html</description>
+		</item>
+
+		<item>
+			<title>Bricklayr's lair</title>
+			<pubDate>2022-10-02T00:25:34Z</pubDate>
+			<link>https://henkmet.github.io/episode2.html</link>
+			<guid>https://henkmet.github.io/episode2.html</guid>
+			<description>episode2.html</description>
+		</item>
+
+		<item>
+			<title>Bricklayr's lair</title>
+			<pubDate>2022-10-02T00:25:34Z</pubDate>
+			<link>https://henkmet.github.io/episode3.html</link>
+			<guid>https://henkmet.github.io/episode3.html</guid>
+			<description>episode3.html</description>
+		</item>
+
+		<item>
+			<title>Bricklayr's lair</title>
+			<pubDate>2022-10-02T00:25:34Z</pubDate>
+			<link>https://henkmet.github.io/episode4.html</link>
+			<guid>https://henkmet.github.io/episode4.html</guid>
+			<description>episode4.html</description>
+		</item>
+
+		<item>
+			<title>Bricklayr's lair</title>
+			<pubDate>2022-10-02T00:25:34Z</pubDate>
+			<link>https://henkmet.github.io/episode5.html</link>
+			<guid>https://henkmet.github.io/episode5.html</guid>
+			<description>episode5.html</description>
+		</item>
+	</channel>
+</rss>
