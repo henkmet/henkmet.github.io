@@ -41,6 +41,7 @@ SYNOPSIS	share/man/man1/lmt.1	/^.Sh SYNOPSIS$/;"	s
 SYNOPSIS	share/man/man1/mkws.1	/^.Sh SYNOPSIS$/;"	s
 SYNOPSIS	share/man/man1/pp.1	/^.Sh SYNOPSIS$/;"	s
 The adventure seed a.k.a. Session zero.	episode1.html	/^<h1>The adventure seed a.k.a. Session zero.<\/h1>$/;"	h
+atom	feed.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
 body	s.css	/^body {$/;"	s
 ns2b972dd70101	sitemap.xml	/^<urlset xmlns='http:\/\/www.sitemaps.org\/schemas\/sitemap\/0.9'>$/;"	n	uri:http://www.sitemaps.org/schemas/sitemap/0.9
 usage	bin/mkws	/^usage() {$/;"	f
