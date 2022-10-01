@@ -9,6 +9,8 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20220828.0/
+.adventure	s.css	/^.adventure {$/;"	c
+.rss	s.css	/^.rss {$/;"	c
 Bricklayr's Lair	episode1.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	episode2.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	episode3.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
@@ -22,7 +24,7 @@ Dong Liu &mdash; episode 2	episode2.html	/^<h1> Dong Liu &mdash; episode 2<\/h1>
 Dong Liu &mdash; episode 3	episode3.html	/^<h1>Dong Liu &mdash; episode 3<\/h1>$/;"	h
 Dong Liu &mdash; episode 4	episode4.html	/^<h1> Dong Liu &mdash; episode 4<\/h1>$/;"	h
 Dong Liu &mdash; episode 5	episode5.html	/^<h1> Dong Liu &mdash; episode 5 <\/h1>$/;"	h
-Dong Liu and the Lanying Stone	index.html	/^<h1>Dong Liu and the Lanying Stone <a href=feed.xml> <img alt=RSS src=images\/rss.png style=widt/;"	h
+Dong Liu and the Lanying Stone	index.html	/^<h1><div class=adventure>Dong Liu and the Lanying Stone<\/div> <div class=rss><a href=feed.xml> /;"	h
 ENVIRONMENT	share/man/man1/mkws.1	/^.Sh ENVIRONMENT$/;"	s
 EXAMPLES	share/man/man1/lmt.1	/^.Sh EXAMPLES$/;"	s
 EXAMPLES	share/man/man1/mkws.1	/^.Sh EXAMPLES$/;"	s

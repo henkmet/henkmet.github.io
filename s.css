@@ -3,3 +3,11 @@ max-width:50em;
 text-align:justify;
 margin:auto;
 }
+
+.adventure {
+float: left;
+}
+
+.rss {
+float: right;
+}
