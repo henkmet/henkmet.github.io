@@ -16,6 +16,7 @@ Bricklayr's Lair	episode2.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	episode3.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	episode4.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	episode5.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
+Bricklayr's Lair	episode6.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	index.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 DESCRIPTION	share/man/man1/lmt.1	/^.Sh DESCRIPTION$/;"	s
 DESCRIPTION	share/man/man1/mkws.1	/^.Sh DESCRIPTION$/;"	s
