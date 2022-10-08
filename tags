@@ -17,6 +17,7 @@ Bricklayr's Lair	episode3.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	episode4.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	episode5.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	episode6.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
+Bricklayr's Lair	episode7.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	index.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 DESCRIPTION	share/man/man1/lmt.1	/^.Sh DESCRIPTION$/;"	s
 DESCRIPTION	share/man/man1/mkws.1	/^.Sh DESCRIPTION$/;"	s
@@ -33,6 +34,7 @@ EXAMPLES	share/man/man1/pp.1	/^.Sh EXAMPLES$/;"	s
 EXIT STATUS	share/man/man1/lmt.1	/^.Sh EXIT STATUS$/;"	s
 EXIT STATUS	share/man/man1/mkws.1	/^.Sh EXIT STATUS$/;"	s
 EXIT STATUS	share/man/man1/pp.1	/^.Sh EXIT STATUS$/;"	s
+Episode 7	episode7.html	/^<h1> Episode 7<\/h1>$/;"	h
 FILES	share/man/man1/mkws.1	/^.Sh FILES$/;"	s
 NAME	share/man/man1/lmt.1	/^.Sh NAME$/;"	s
 NAME	share/man/man1/mkws.1	/^.Sh NAME$/;"	s
