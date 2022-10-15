@@ -3,64 +3,72 @@
 <channel>
 		<atom:link href="https://henkmet.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		<title>Bricklayr's lair	</title>
-		<link>henkmet.github.io/</link>
+		<link>https://henkmet.github.io/</link>
 		<description>Bricklayr's roleplaying blog</description>
 		<language>en-gb</language>    
 
 		<item>
 			<title>Bricklayr's lair</title>
-			<pubDate>2022-10-09T17:17:42Z</pubDate>
-			<link>henkmet.github.io/episode1.html</link>
-			<guid>henkmet.github.io/episode1.html</guid>
+			<pubDate>2022-10-15T12:35:17Z</pubDate>
+			<link>https://henkmet.github.io/episode1.html</link>
+			<guid>https://henkmet.github.io/episode1.html</guid>
 			<description>episode1.html</description>
 		</item>
 
 		<item>
 			<title>Bricklayr's lair</title>
-			<pubDate>2022-10-09T17:17:42Z</pubDate>
-			<link>henkmet.github.io/episode2.html</link>
-			<guid>henkmet.github.io/episode2.html</guid>
+			<pubDate>2022-10-15T12:35:17Z</pubDate>
+			<link>https://henkmet.github.io/episode2.html</link>
+			<guid>https://henkmet.github.io/episode2.html</guid>
 			<description>episode2.html</description>
 		</item>
 
 		<item>
 			<title>Bricklayr's lair</title>
-			<pubDate>2022-10-09T17:17:42Z</pubDate>
-			<link>henkmet.github.io/episode3.html</link>
-			<guid>henkmet.github.io/episode3.html</guid>
+			<pubDate>2022-10-15T12:35:17Z</pubDate>
+			<link>https://henkmet.github.io/episode3.html</link>
+			<guid>https://henkmet.github.io/episode3.html</guid>
 			<description>episode3.html</description>
 		</item>
 
 		<item>
 			<title>Bricklayr's lair</title>
-			<pubDate>2022-10-09T17:17:42Z</pubDate>
-			<link>henkmet.github.io/episode4.html</link>
-			<guid>henkmet.github.io/episode4.html</guid>
+			<pubDate>2022-10-15T12:35:17Z</pubDate>
+			<link>https://henkmet.github.io/episode4.html</link>
+			<guid>https://henkmet.github.io/episode4.html</guid>
 			<description>episode4.html</description>
 		</item>
 
 		<item>
 			<title>Bricklayr's lair</title>
-			<pubDate>2022-10-09T17:17:42Z</pubDate>
-			<link>henkmet.github.io/episode5.html</link>
-			<guid>henkmet.github.io/episode5.html</guid>
+			<pubDate>2022-10-15T12:35:17Z</pubDate>
+			<link>https://henkmet.github.io/episode5.html</link>
+			<guid>https://henkmet.github.io/episode5.html</guid>
 			<description>episode5.html</description>
 		</item>
 
 		<item>
 			<title>Bricklayr's lair</title>
-			<pubDate>2022-10-09T17:17:42Z</pubDate>
-			<link>henkmet.github.io/episode6.html</link>
-			<guid>henkmet.github.io/episode6.html</guid>
+			<pubDate>2022-10-15T12:35:17Z</pubDate>
+			<link>https://henkmet.github.io/episode6.html</link>
+			<guid>https://henkmet.github.io/episode6.html</guid>
 			<description>episode6.html</description>
 		</item>
 
 		<item>
 			<title>Bricklayr's lair</title>
-			<pubDate>2022-10-09T17:17:42Z</pubDate>
-			<link>henkmet.github.io/episode7.html</link>
-			<guid>henkmet.github.io/episode7.html</guid>
+			<pubDate>2022-10-15T12:35:17Z</pubDate>
+			<link>https://henkmet.github.io/episode7.html</link>
+			<guid>https://henkmet.github.io/episode7.html</guid>
 			<description>episode7.html</description>
+		</item>
+
+		<item>
+			<title>Bricklayr's lair</title>
+			<pubDate>2022-10-15T12:35:17Z</pubDate>
+			<link>https://henkmet.github.io/episode8.html</link>
+			<guid>https://henkmet.github.io/episode8.html</guid>
+			<description>episode8.html</description>
 		</item>
 	</channel>
 </rss>
