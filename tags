@@ -12,6 +12,7 @@
 .adventure	s.css	/^.adventure {$/;"	c
 .rss	s.css	/^.rss {$/;"	c
 Bricklayr's Lair	episode1.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
+Bricklayr's Lair	episode10.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	episode2.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	episode3.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	episode4.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
