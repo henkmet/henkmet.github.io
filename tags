@@ -14,6 +14,7 @@
 Bricklayr's Lair	episode1.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	episode10.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	episode11.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
+Bricklayr's Lair	episode12.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	episode2.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	episode3.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	episode4.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
@@ -39,6 +40,8 @@ EXIT STATUS	share/man/man1/lmt.1	/^.Sh EXIT STATUS$/;"	s
 EXIT STATUS	share/man/man1/mkws.1	/^.Sh EXIT STATUS$/;"	s
 EXIT STATUS	share/man/man1/pp.1	/^.Sh EXIT STATUS$/;"	s
 Episode 10	episode10.html	/^<h1> Episode 10<\/h1>$/;"	h
+Episode 11	episode11.html	/^<h1> Episode 11<\/h1>$/;"	h
+Episode 12 &hmdash; Ending	episode12.html	/^<h1>Episode 12 &hmdash; Ending<\/h1>$/;"	h
 Episode 7	episode7.html	/^<h1> Episode 7<\/h1>$/;"	h
 Episode 8	episode8.html	/^<h1> Episode 8<\/h1><\/p>$/;"	h
 Episode 9	episode9.html	/^<h1> Episode 9<\/h1>$/;"	h
