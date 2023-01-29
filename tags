@@ -11,6 +11,7 @@
 !_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20220828.0/
 .adventure	s.css	/^.adventure {$/;"	c
 .rss	s.css	/^.rss {$/;"	c
+Bricklayr's Lair	dong.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	episode1.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	episode10.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	episode11.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
@@ -24,6 +25,11 @@ Bricklayr's Lair	episode7.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	episode8.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	episode9.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	index.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
+Bricklayr's Lair	silas.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
+Bricklayr's Lair	silas1.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
+DESCRIPTION	man/man1/lmt.1	/^.Sh DESCRIPTION$/;"	s
+DESCRIPTION	man/man1/mkws.1	/^.Sh DESCRIPTION$/;"	s
+DESCRIPTION	man/man1/pp.1	/^.Sh DESCRIPTION$/;"	s
 DESCRIPTION	share/man/man1/lmt.1	/^.Sh DESCRIPTION$/;"	s
 DESCRIPTION	share/man/man1/mkws.1	/^.Sh DESCRIPTION$/;"	s
 DESCRIPTION	share/man/man1/pp.1	/^.Sh DESCRIPTION$/;"	s
@@ -31,32 +37,52 @@ Dong Liu &mdash; episode 2	episode2.html	/^<h1> Dong Liu &mdash; episode 2<\/h1>
 Dong Liu &mdash; episode 3	episode3.html	/^<h1>Dong Liu &mdash; episode 3<\/h1>$/;"	h
 Dong Liu &mdash; episode 4	episode4.html	/^<h1> Dong Liu &mdash; episode 4<\/h1>$/;"	h
 Dong Liu &mdash; episode 5	episode5.html	/^<h1> Dong Liu &mdash; episode 5 <\/h1>$/;"	h
-Dong Liu and the Lanying Stone	index.html	/^<h1><div class=adventure>Dong Liu and the Lanying Stone<\/div> <div class=rss><a href=feed.xml> /;"	h
+Dong Liu and the Lanying Stone	dong.html	/^<h1><div class=adventure>Dong Liu and the Lanying Stone<\/div> <div class=rss><a href=feed.xml> /;"	h
+ENVIRONMENT	man/man1/mkws.1	/^.Sh ENVIRONMENT$/;"	s
 ENVIRONMENT	share/man/man1/mkws.1	/^.Sh ENVIRONMENT$/;"	s
+EXAMPLES	man/man1/lmt.1	/^.Sh EXAMPLES$/;"	s
+EXAMPLES	man/man1/mkws.1	/^.Sh EXAMPLES$/;"	s
+EXAMPLES	man/man1/pp.1	/^.Sh EXAMPLES$/;"	s
 EXAMPLES	share/man/man1/lmt.1	/^.Sh EXAMPLES$/;"	s
 EXAMPLES	share/man/man1/mkws.1	/^.Sh EXAMPLES$/;"	s
 EXAMPLES	share/man/man1/pp.1	/^.Sh EXAMPLES$/;"	s
+EXIT STATUS	man/man1/lmt.1	/^.Sh EXIT STATUS$/;"	s
+EXIT STATUS	man/man1/mkws.1	/^.Sh EXIT STATUS$/;"	s
+EXIT STATUS	man/man1/pp.1	/^.Sh EXIT STATUS$/;"	s
 EXIT STATUS	share/man/man1/lmt.1	/^.Sh EXIT STATUS$/;"	s
 EXIT STATUS	share/man/man1/mkws.1	/^.Sh EXIT STATUS$/;"	s
 EXIT STATUS	share/man/man1/pp.1	/^.Sh EXIT STATUS$/;"	s
 Episode 10	episode10.html	/^<h1> Episode 10<\/h1>$/;"	h
 Episode 11	episode11.html	/^<h1> Episode 11<\/h1>$/;"	h
-Episode 12 &hmdash; Ending	episode12.html	/^<h1>Episode 12 &hmdash; Ending<\/h1>$/;"	h
+Episode 12 &mdash; Ending	episode12.html	/^<h1>Episode 12 &mdash; Ending<\/h1>$/;"	h
 Episode 7	episode7.html	/^<h1> Episode 7<\/h1>$/;"	h
 Episode 8	episode8.html	/^<h1> Episode 8<\/h1><\/p>$/;"	h
 Episode 9	episode9.html	/^<h1> Episode 9<\/h1>$/;"	h
+FILES	man/man1/mkws.1	/^.Sh FILES$/;"	s
 FILES	share/man/man1/mkws.1	/^.Sh FILES$/;"	s
+NAME	man/man1/lmt.1	/^.Sh NAME$/;"	s
+NAME	man/man1/mkws.1	/^.Sh NAME$/;"	s
+NAME	man/man1/pp.1	/^.Sh NAME$/;"	s
 NAME	share/man/man1/lmt.1	/^.Sh NAME$/;"	s
 NAME	share/man/man1/mkws.1	/^.Sh NAME$/;"	s
 NAME	share/man/man1/pp.1	/^.Sh NAME$/;"	s
+SEE ALSO	man/man1/lmt.1	/^.Sh SEE ALSO$/;"	s
+SEE ALSO	man/man1/mkws.1	/^.Sh SEE ALSO$/;"	s
+SEE ALSO	man/man1/pp.1	/^.Sh SEE ALSO$/;"	s
 SEE ALSO	share/man/man1/lmt.1	/^.Sh SEE ALSO$/;"	s
 SEE ALSO	share/man/man1/mkws.1	/^.Sh SEE ALSO$/;"	s
 SEE ALSO	share/man/man1/pp.1	/^.Sh SEE ALSO$/;"	s
+SYNOPSIS	man/man1/lmt.1	/^.Sh SYNOPSIS$/;"	s
+SYNOPSIS	man/man1/mkws.1	/^.Sh SYNOPSIS$/;"	s
+SYNOPSIS	man/man1/pp.1	/^.Sh SYNOPSIS$/;"	s
 SYNOPSIS	share/man/man1/lmt.1	/^.Sh SYNOPSIS$/;"	s
 SYNOPSIS	share/man/man1/mkws.1	/^.Sh SYNOPSIS$/;"	s
 SYNOPSIS	share/man/man1/pp.1	/^.Sh SYNOPSIS$/;"	s
+Silas	silas.html	/^<h1><div class=adventure>Silas<\/div> <div class=rss><a href=feed.xml> <img alt=RSS src=images\//;"	h
+Solo Adventures	index.html	/^<h1><div class=adventure>Solo Adventures<\/div> <div class=rss><a href=feed.xml> <img alt=RSS sr/;"	h
 The adventure seed a.k.a. Session zero.	episode1.html	/^<h1>The adventure seed a.k.a. Session zero.<\/h1>$/;"	h
 atom	feed.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
 body	s.css	/^body {$/;"	s
 ns2b972dd70101	sitemap.xml	/^<urlset xmlns='http:\/\/www.sitemaps.org\/schemas\/sitemap\/0.9'>$/;"	n	uri:http://www.sitemaps.org/schemas/sitemap/0.9
 usage	bin/mkws	/^usage() {$/;"	f
+usage	mkws	/^usage() {$/;"	f
