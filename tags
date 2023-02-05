@@ -27,6 +27,7 @@ Bricklayr's Lair	episode9.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	index.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	silas.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	silas1.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
+Bricklayr's Lair	silas2.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 DESCRIPTION	man/man1/lmt.1	/^.Sh DESCRIPTION$/;"	s
 DESCRIPTION	man/man1/mkws.1	/^.Sh DESCRIPTION$/;"	s
 DESCRIPTION	man/man1/pp.1	/^.Sh DESCRIPTION$/;"	s
