@@ -108,7 +108,7 @@ Episode 8	episode8.html	/^<h1> Episode 8<\/h1><\/p>$/;"	h
 Episode 9	episode9.html	/^<h1> Episode 9<\/h1>$/;"	h
 FILES	man/man1/mkws.1	/^.Sh FILES$/;"	s
 FILES	share/man/man1/mkws.1	/^.Sh FILES$/;"	s
-Mulziber and Irinja; then all together.	twl1.html	/^<h2>Mulziber and Irinja; then all together.<\/h2>$/;"	i
+Mulziber and Irinja; then all together, then Elkwin alone.	twl1.html	/^<h2>Mulziber and Irinja; then all together, then Elkwin alone.<\/h2>$/;"	i
 NAME	man/man1/lmt.1	/^.Sh NAME$/;"	s
 NAME	man/man1/mkws.1	/^.Sh NAME$/;"	s
 NAME	man/man1/pp.1	/^.Sh NAME$/;"	s
