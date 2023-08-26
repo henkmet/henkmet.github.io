@@ -12,3 +12,7 @@ float: left;
 .rss {
 float: right;
 }
+
+figcaption {
+text-align: center;
+}
