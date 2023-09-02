@@ -8,28 +8,22 @@ usage() {
 
 test $# -lt 1 && usage
 
-export src="${2:-.}"
-export share="${MKWSTHEMEDIR:-$src/share}"
+export SRC="${2:-.}"
+export SHARE="${MKWSTHEMEDIR:-${SRC}/share}"
 export LANG="${LANG:-en_US.UTF-8}"
 
-if ! test -f "$src"/index.upphtml
+if ! test -f "${SRC}"/index.upphtml
 then
 	>&2 printf "no index.upphtml file found\\n"
 	exit 1
 fi
 
-echo "Making s.css"
-pp "$share"/s.uppcss "$1" > s.css
-
-for t in "$src"/*.upphtml
+for t in "${SRC}"/*.upphtml
 do
 	echo "Making $(basename "${t%.upphtml}".html)"
-	pp "$share"/l.upphtml "$t" "$1" > \
+	pp "${SHARE}"/l.upphtml "${t}" "$1" > \
 		"$(basename "${t%.upphtml}".html)"
 done
 
 echo "Making sitemap.xml"
-pp "$share"/sitemap.uppxml "$1" > sitemap.xml
-
-echo "Making feed.xml"
-pp "$share"/feed.uppxml "$1" > feed.xml
+pp "${SHARE}"/sitemap.uppxml "$1" > sitemap.xml

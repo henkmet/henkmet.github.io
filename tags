@@ -75,12 +75,18 @@ Bricklayr's Lair	silas2.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	tk.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	twl1.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	twl2.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
+Bricklayr's Lair	twl3.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
+Bricklayr's Lair	twl3a.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
+Bricklayr's Lair	twl3b.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 DESCRIPTION	man/man1/lmt.1	/^.Sh DESCRIPTION$/;"	s
 DESCRIPTION	man/man1/mkws.1	/^.Sh DESCRIPTION$/;"	s
 DESCRIPTION	man/man1/pp.1	/^.Sh DESCRIPTION$/;"	s
 DESCRIPTION	share/man/man1/lmt.1	/^.Sh DESCRIPTION$/;"	s
 DESCRIPTION	share/man/man1/mkws.1	/^.Sh DESCRIPTION$/;"	s
 DESCRIPTION	share/man/man1/pp.1	/^.Sh DESCRIPTION$/;"	s
+DESCRIPTION	ws.sh/share/man/man1/lmt.1	/^.Sh DESCRIPTION$/;"	s
+DESCRIPTION	ws.sh/share/man/man1/mkws.1	/^.Sh DESCRIPTION$/;"	s
+DESCRIPTION	ws.sh/share/man/man1/pp.1	/^.Sh DESCRIPTION$/;"	s
 Dong Liu &mdash; episode 2	episode2.html	/^<h1> Dong Liu &mdash; episode 2<\/h1>$/;"	h
 Dong Liu &mdash; episode 3	episode3.html	/^<h1>Dong Liu &mdash; episode 3<\/h1>$/;"	h
 Dong Liu &mdash; episode 4	episode4.html	/^<h1> Dong Liu &mdash; episode 4<\/h1>$/;"	h
@@ -88,18 +94,25 @@ Dong Liu &mdash; episode 5	episode5.html	/^<h1> Dong Liu &mdash; episode 5 <\/h1
 Dong Liu and the Lanying Stone	dong.html	/^<h1><div class=adventure>Dong Liu and the Lanying Stone<\/div> <div class=rss><a href=feed.xml> /;"	h
 ENVIRONMENT	man/man1/mkws.1	/^.Sh ENVIRONMENT$/;"	s
 ENVIRONMENT	share/man/man1/mkws.1	/^.Sh ENVIRONMENT$/;"	s
+ENVIRONMENT	ws.sh/share/man/man1/mkws.1	/^.Sh ENVIRONMENT$/;"	s
 EXAMPLES	man/man1/lmt.1	/^.Sh EXAMPLES$/;"	s
 EXAMPLES	man/man1/mkws.1	/^.Sh EXAMPLES$/;"	s
 EXAMPLES	man/man1/pp.1	/^.Sh EXAMPLES$/;"	s
 EXAMPLES	share/man/man1/lmt.1	/^.Sh EXAMPLES$/;"	s
 EXAMPLES	share/man/man1/mkws.1	/^.Sh EXAMPLES$/;"	s
 EXAMPLES	share/man/man1/pp.1	/^.Sh EXAMPLES$/;"	s
+EXAMPLES	ws.sh/share/man/man1/lmt.1	/^.Sh EXAMPLES$/;"	s
+EXAMPLES	ws.sh/share/man/man1/mkws.1	/^.Sh EXAMPLES$/;"	s
+EXAMPLES	ws.sh/share/man/man1/pp.1	/^.Sh EXAMPLES$/;"	s
 EXIT STATUS	man/man1/lmt.1	/^.Sh EXIT STATUS$/;"	s
 EXIT STATUS	man/man1/mkws.1	/^.Sh EXIT STATUS$/;"	s
 EXIT STATUS	man/man1/pp.1	/^.Sh EXIT STATUS$/;"	s
 EXIT STATUS	share/man/man1/lmt.1	/^.Sh EXIT STATUS$/;"	s
 EXIT STATUS	share/man/man1/mkws.1	/^.Sh EXIT STATUS$/;"	s
 EXIT STATUS	share/man/man1/pp.1	/^.Sh EXIT STATUS$/;"	s
+EXIT STATUS	ws.sh/share/man/man1/lmt.1	/^.Sh EXIT STATUS$/;"	s
+EXIT STATUS	ws.sh/share/man/man1/mkws.1	/^.Sh EXIT STATUS$/;"	s
+EXIT STATUS	ws.sh/share/man/man1/pp.1	/^.Sh EXIT STATUS$/;"	s
 Elkwin and Rowena	twl1.html	/^<h2>Elkwin and Rowena<\/h2>$/;"	i
 Episode 10	episode10.html	/^<h1> Episode 10<\/h1>$/;"	h
 Episode 11	episode11.html	/^<h1> Episode 11<\/h1>$/;"	h
@@ -109,6 +122,7 @@ Episode 8	episode8.html	/^<h1> Episode 8<\/h1><\/p>$/;"	h
 Episode 9	episode9.html	/^<h1> Episode 9<\/h1>$/;"	h
 FILES	man/man1/mkws.1	/^.Sh FILES$/;"	s
 FILES	share/man/man1/mkws.1	/^.Sh FILES$/;"	s
+FILES	ws.sh/share/man/man1/mkws.1	/^.Sh FILES$/;"	s
 Mulziber and Irinja; then all together, then Elkwin alone.	twl1.html	/^<h2>Mulziber and Irinja; then all together, then Elkwin alone.<\/h2>$/;"	i
 NAME	man/man1/lmt.1	/^.Sh NAME$/;"	s
 NAME	man/man1/mkws.1	/^.Sh NAME$/;"	s
@@ -116,20 +130,30 @@ NAME	man/man1/pp.1	/^.Sh NAME$/;"	s
 NAME	share/man/man1/lmt.1	/^.Sh NAME$/;"	s
 NAME	share/man/man1/mkws.1	/^.Sh NAME$/;"	s
 NAME	share/man/man1/pp.1	/^.Sh NAME$/;"	s
+NAME	ws.sh/share/man/man1/lmt.1	/^.Sh NAME$/;"	s
+NAME	ws.sh/share/man/man1/mkws.1	/^.Sh NAME$/;"	s
+NAME	ws.sh/share/man/man1/pp.1	/^.Sh NAME$/;"	s
+Prelude. 1 Hesinde 1039 FB	twl3a.html	/^<h1>Prelude. 1 Hesinde 1039 FB<\/h1>$/;"	h
 Prelude. 29 Boron 1039 FB	twl1.html	/^<h1>Prelude. 29 Boron 1039 FB<\/h1>$/;"	h
-Prelude. 29 Boron 1039 FB	twl2.html	/^<h1>Prelude. 29 Boron 1039 FB<\/h1><br>$/;"	h
+Prelude. 30 Boron 1039 FB	twl2.html	/^<h1>Prelude. 30 Boron 1039 FB<\/h1>$/;"	h
 SEE ALSO	man/man1/lmt.1	/^.Sh SEE ALSO$/;"	s
 SEE ALSO	man/man1/mkws.1	/^.Sh SEE ALSO$/;"	s
 SEE ALSO	man/man1/pp.1	/^.Sh SEE ALSO$/;"	s
 SEE ALSO	share/man/man1/lmt.1	/^.Sh SEE ALSO$/;"	s
 SEE ALSO	share/man/man1/mkws.1	/^.Sh SEE ALSO$/;"	s
 SEE ALSO	share/man/man1/pp.1	/^.Sh SEE ALSO$/;"	s
+SEE ALSO	ws.sh/share/man/man1/lmt.1	/^.Sh SEE ALSO$/;"	s
+SEE ALSO	ws.sh/share/man/man1/mkws.1	/^.Sh SEE ALSO$/;"	s
+SEE ALSO	ws.sh/share/man/man1/pp.1	/^.Sh SEE ALSO$/;"	s
 SYNOPSIS	man/man1/lmt.1	/^.Sh SYNOPSIS$/;"	s
 SYNOPSIS	man/man1/mkws.1	/^.Sh SYNOPSIS$/;"	s
 SYNOPSIS	man/man1/pp.1	/^.Sh SYNOPSIS$/;"	s
 SYNOPSIS	share/man/man1/lmt.1	/^.Sh SYNOPSIS$/;"	s
 SYNOPSIS	share/man/man1/mkws.1	/^.Sh SYNOPSIS$/;"	s
 SYNOPSIS	share/man/man1/pp.1	/^.Sh SYNOPSIS$/;"	s
+SYNOPSIS	ws.sh/share/man/man1/lmt.1	/^.Sh SYNOPSIS$/;"	s
+SYNOPSIS	ws.sh/share/man/man1/mkws.1	/^.Sh SYNOPSIS$/;"	s
+SYNOPSIS	ws.sh/share/man/man1/pp.1	/^.Sh SYNOPSIS$/;"	s
 Silas	silas.html	/^<h1><div class=adventure>Silas<\/div> <div class=rss><a href=feed.xml> <img alt=RSS src=images\//;"	h
 Solo Adventures	index.html	/^<h1><div class=adventure>Solo Adventures<\/div> <div class=rss><a href=feed.xml> <img alt=RSS sr/;"	h
 The Dark Eye	tk.html	/^<h2>The Dark Eye<\/h2>$/;"	i
