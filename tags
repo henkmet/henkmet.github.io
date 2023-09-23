@@ -58,6 +58,7 @@
 2 Hesinde 1039 FB	twl4.html	/^<h1>2 Hesinde 1039 FB<\/h1>$/;"	h
 3 Hesinde 1039 FB	twl5.html	/^<h1>3 Hesinde 1039 FB<\/h1>$/;"	h
 4 Hesinde 1039 FB, Fireday	twl6.html	/^<h1>4 Hesinde 1039 FB, Fireday<\/h1>$/;"	h
+5 Hesinde 1039 FB, day	twl7.html	/^<h1>5 Hesinde 1039 FB, day<\/h1>$/;"	h
 Bricklayr's Lair	dong.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	episode1.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	episode10.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
@@ -84,6 +85,7 @@ Bricklayr's Lair	twl3b.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	twl4.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	twl5.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	twl6.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
+Bricklayr's Lair	twl7.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 DESCRIPTION	man/man1/lmt.1	/^.Sh DESCRIPTION$/;"	s
 DESCRIPTION	man/man1/mkws.1	/^.Sh DESCRIPTION$/;"	s
 DESCRIPTION	man/man1/pp.1	/^.Sh DESCRIPTION$/;"	s
