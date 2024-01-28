@@ -47,7 +47,7 @@
 !_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
-!_TAG_PROGRAM_VERSION	6.0.0	/p6.0.20221218.0/
+!_TAG_PROGRAM_VERSION	6.1.0	/v6.1.0/
 !_TAG_ROLE_DESCRIPTION!HTML!class	attribute	/assigned as attributes/
 !_TAG_ROLE_DESCRIPTION!HTML!script	extFile	/referenced as external files/
 !_TAG_ROLE_DESCRIPTION!HTML!stylesheet	extFile	/referenced as external files/
@@ -56,9 +56,14 @@
 .adventure	s.css	/^.adventure {$/;"	c
 .rss	s.css	/^.rss {$/;"	c
 2 Hesinde 1039 FB	twl4.html	/^<h1>2 Hesinde 1039 FB<\/h1>$/;"	h
+2024 solo RPG challenge	2024.html	/^<h1><div class=campaign>2024 solo RPG challenge<\/div> <div class=rss><a href=feed.xml> <img alt/;"	h
 3 Hesinde 1039 FB	twl5.html	/^<h1>3 Hesinde 1039 FB<\/h1>$/;"	h
 4 Hesinde 1039 FB, Fireday	twl6.html	/^<h1>4 Hesinde 1039 FB, Fireday<\/h1>$/;"	h
 5 Hesinde 1039 FB, day	twl7.html	/^<h1>5 Hesinde 1039 FB, day<\/h1>$/;"	h
+A Friend lost	2024jan.html	/^<h2>A Friend lost<\/h2>$/;"	i
+A one-shot every month	2024.html	/^<h2>A one-shot every month<\/h2>$/;"	i
+Bricklayr's Lair	2024.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
+Bricklayr's Lair	2024jan.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	dong.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	episode1.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	episode10.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
@@ -73,6 +78,8 @@ Bricklayr's Lair	episode7.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	episode8.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	episode9.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	index.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
+Bricklayr's Lair	janhalf2.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
+Bricklayr's Lair	jansave.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	silas.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	silas1.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
 Bricklayr's Lair	silas2.html	/^<title>Bricklayr's Lair<\/title>$/;"	j
@@ -120,6 +127,8 @@ Episode 8	episode8.html	/^<h1> Episode 8<\/h1><\/p>$/;"	h
 Episode 9	episode9.html	/^<h1> Episode 9<\/h1>$/;"	h
 FILES	man/man1/mkws.1	/^.Sh FILES$/;"	s
 FILES	share/man/man1/mkws.1	/^.Sh FILES$/;"	s
+January 2024 - a new oracle	2024jan.html	/^<h1>January 2024 - a new oracle<\/h1>$/;"	h
+January 2024 - a new oracle	janhalf2.html	/^<h1>January 2024 - a new oracle<\/h1>$/;"	h
 Mulziber and Irinja; then all together, then Elkwin alone.	twl1.html	/^<h2>Mulziber and Irinja; then all together, then Elkwin alone.<\/h2>$/;"	i
 NAME	man/man1/lmt.1	/^.Sh NAME$/;"	s
 NAME	man/man1/mkws.1	/^.Sh NAME$/;"	s
